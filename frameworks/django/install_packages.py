@@ -19,7 +19,7 @@ packages = [
     "pyasn1_modules", "pycparser", "pyOpenSSL", "pyotp", "pyparsing", "python-crontab",
     "python-dateutil", "python-decouple", "pytz", "redis", "requests", "rsa", "service-identity",
     "setuptools", "six", "sqlparse", "twisted-iocpsupport", "txaio", "typing_extensions", "tzdata",
-    "uritemplate", "urllib3", "vine", "wcwidth", "zope.interface", "Twisted", "numpy", "environ", "python-dotenv", 'dotenv', 'confluent-kafka', 'django-kafka'
+    "uritemplate", "urllib3", "vine", "wcwidth", "zope.interface", "Twisted", "numpy", "environ", "python-dotenv", 'dotenv', 'confluent-kafka', 'django-kafka', "reportlab"
 
 ]
 
